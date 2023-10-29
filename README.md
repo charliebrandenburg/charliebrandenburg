@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi everyone 👋
+I am currently learning HTML and CSS.  
+Whenever I am doing something else, I have this thought like a Montra, "you could be practicing or learning more about coding." If I am not learning or working, I am having fun with my family. I do other things that I am not particularly good at, but I enjoy the process and the feeling of improving.  
+I hope you all have a better tomorrow! Thank you for stopping by 
 
+Other things I can't live without: U+1F9AE U+1F958 U+1F6B4 U+1F9D8 U+200D U+2642 U+FE0F U+1F4F7 U+1F4D6 U+1F3A7 U+2615
 <!--
 **charliebrandenburg/charliebrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
