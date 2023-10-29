@@ -1,5 +1,6 @@
-I am usually at home studying and/or working. When I am not, I am trying to make my family laugh.
-Whenever I am doing something else, I have this thought like a Montra, "you could be practicing or learning more about coding." 
+Hi there 👋 
+I’m currently learning HTML 5 & CSS 🧠
+Fun fact: I enjoy cooking for my family 🥘
 <!--
 **charliebrandenburg/charliebrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
