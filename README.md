@@ -1,6 +1,6 @@
-Hi there 👋 
-I’m currently learning HTML 5 & CSS 🧠
-Fun fact: I enjoy cooking for my family 🥘
+<p>Hi there 👋</p> 
+<p>I’m currently learning HTML 5 & CSS 🧠</p>
+<p>Fun fact: I enjoy cooking for my family 🥘</p>
 <!--
 **charliebrandenburg/charliebrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
