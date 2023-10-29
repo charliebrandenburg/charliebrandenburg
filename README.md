@@ -1,6 +1,4 @@
-### Hi everyone 👋
-I am currently learning HTML and CSS.  
-If I am not learning or working, I am having fun with my family. I do other things that I am not particularly good at, but I enjoy the process and the feeling of improving.  
+I am usually at home studying and/or working. When I am not, I am trying to make my family laugh.
 Whenever I am doing something else, I have this thought like a Montra, "you could be practicing or learning more about coding." 
 <!--
 **charliebrandenburg/charliebrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
